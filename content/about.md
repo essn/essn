@@ -1,28 +1,47 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+description = "essn"
+aliases = ["about-us","about-essn","contact"]
+author = "essn"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+*I created this to carve a little slice of my own in the vastness of the internet :) Below is a little bit about me:*
 
-Hugo makes use of a variety of open source projects including:
+#### The Pitch
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Enthusiastic software engineer and teacher. My first love was Ruby on Rails, but I've since worked with NodeJS, TypeScript, Python, Elixir, and PHP. With that, Postgres/SQL, Mongo/NoSQL, Redis, Heroku, Elasticsearch, MQTT, Kafka, Unix, Materialize...lots :) 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I like well tested, well documented code, and, of course, well _designed_ code. I prefer simple and explicit over complex ("Cool one liner, but what does it _do_?") and implicit.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I will talk at length about Functional Programming, OOP, Domain Driven Design, and SOLID...or any pattern, really.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I have an interest in ops and, when I can, work with Terraform and, extensively, Docker. I know AWS...just kidding, I've worked with _parts_ of it. I have had enough IAM headaches to know best practices around that roles and users, though.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I am learning...everything! But in all seriousness, if I had to name a few, event driven architecture, Kubernetes, SecOps, ETLs, Lua, Deno, WASM, Rust, ML, diving deeper in to OTP, uhh...the list goes on. So many toys, so little time!
+
+#### The Other Stuff
 
 
+I'm a firm believer in open source and sharing knowledge. I will teach any chance any chance I get and learn any chance I get. I taught professionally for several years and the experience was extremely fulfilling. Sure, explaining concepts reinforces your understanding but the ability to make a difference in an individuals life was more humbling and rewarding than I could have imagined.
 
+In all areas of my life, the following is true:
+
+*Community is simply more important.*
+
+Oh, HJKL <3
+
+#### The Other Other Stuff
+
+I mostly code or [play with and in userland](https://github.com/essn/dotfiles), but if I'm not...I enjoy (in no particular order):
+
+- My two cats - Peanut and Paisely (yes, the names are on purpose)
+- Spending time with my friends and family
+- Audio synthesis (I code it too sometimes!) and compulsively collecting related hardware
+- [Rinsing my vinyl collection](https://www.discogs.com/user/essn/collection) for fun and profit (to the dismay of my neighbors)
+- Cooking
+- Attempting to understand the meaning of life (read: likes science fiction)
+- Exploring the vastness of NYC
+
+#### Read This Bit Please
+
+I am currently having a love affair with [NestJS](https://nestjs.com/) and promoting it as much as I can.
