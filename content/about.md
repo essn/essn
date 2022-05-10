@@ -15,12 +15,11 @@ I like well tested, well documented code, and, of course, well _designed_ code. 
 
 I will talk at length about Functional Programming, OOP, Domain Driven Design, and SOLID...or any pattern, really.
 
-I have an interest in ops and, when I can, work with Terraform and, extensively, Docker. I know AWS...just kidding, I've worked with _parts_ of it. I have had enough IAM headaches to know best practices around that roles and users, though.
+I have an interest in ops. I love to work with Terraform and Dockerize _everything_. I know AWS...just kidding, I've worked with _parts_ of it. I have had enough IAM headaches to know best practices around that roles and users, though.
 
 I am learning...everything! But in all seriousness, if I had to name a few, event driven architecture, Kubernetes, SecOps, ETLs, Lua, Deno, WASM, Rust, ML, diving deeper in to OTP, uhh...the list goes on. So many toys, so little time!
 
 #### The Other Stuff
-
 
 I'm a firm believer in open source and sharing knowledge. I will teach any chance any chance I get and learn any chance I get. I taught professionally for several years and the experience was extremely fulfilling. Sure, explaining concepts reinforces your understanding but the ability to make a difference in an individuals life was more humbling and rewarding than I could have imagined.
 
