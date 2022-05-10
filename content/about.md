@@ -21,7 +21,9 @@ I am learning...everything! But in all seriousness, if I had to name a few, even
 
 #### The Other Stuff
 
-I'm a firm believer in open source and sharing knowledge. I will teach any chance any chance I get and learn any chance I get. I taught professionally for several years and the experience was extremely fulfilling. Sure, explaining concepts reinforces your understanding but the ability to make a difference in an individuals life was more humbling and rewarding than I could have imagined.
+I'm a firm believer in open source and sharing knowledge. I will teach any chance any chance I get and learn any chance I get.
+
+I taught professionally for several years and the experience was extremely fulfilling. Sure, explaining concepts reinforces your understanding but the ability to make a difference in an individuals life was more humbling and rewarding than I could have imagined.
 
 In all areas of my life, the following is true:
 
