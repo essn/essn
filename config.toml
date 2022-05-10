@@ -1,30 +1,25 @@
 # baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Archie"
+title = "essn"
 theme = "archie"
-copyright = "© Athul"
+copyright = "© essn"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
 mode = "auto"
 useCDN = false
-subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+subtitle = "I make things. Sometimes, they're interesting. *Note: This site is WIP and I am adding more content as time allows :)*"
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/essn/essn"
 
-# [[params.social]]
-# name = "Twitter"
-# icon = "twitter"
-# url = "https://github.com/athulcajay/"
-
-# [[params.social]]
-# name = "GitLab"
-# icon = "gitlab"
-# url = "https://gitlab.com/athul/"
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/jesse-pledger-29946aa4/"
 
 [[menu.main]]
 name = "Home"
