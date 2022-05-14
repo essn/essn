@@ -5,6 +5,7 @@ copyright = "© essn"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+googleAnalytics = 'G-42B5W7H635'
 [params]
 mode = "auto"
 useCDN = false
