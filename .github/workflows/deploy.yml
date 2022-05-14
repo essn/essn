@@ -1,0 +1,27 @@
+name: Deploy
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v3
+
+      - name: Build
+        uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
+        with:
+          args: --minify --buildDrafts
+          run: hugo -D
+
+      - name: Push static assets
+        uses: cpina/github-action-push-to-another-repository@main 
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'public'
+          user-email: 'jessepledger@gmail.com'
+          destination-repository-name: 'essn.github.io'
+          destination-github-username: 'essn'
+ 
