@@ -1,7 +1,6 @@
 # baseURL = "https://example.com"
 languageCode = "en-us"
 title = "essn"
-theme = "archie"
 copyright = "© essn"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
