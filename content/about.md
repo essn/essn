@@ -7,7 +7,7 @@ author = "essn"
 
 *I created this to carve a little slice of my own in the vastness of the internet :) Below is a little bit about me:*
 
-#### The Pitch
+## The Pitch
 
 Enthusiastic software engineer and teacher. My first love was Ruby on Rails, but I've since worked with NodeJS, TypeScript, Python, Elixir, and PHP. With that, Postgres/SQL, Mongo/NoSQL, Redis, Heroku, Elasticsearch, MQTT, Kafka, Unix, Materialize...lots :) 
 
@@ -19,7 +19,7 @@ I have an interest in ops. I love to work with Terraform and Dockerize _everythi
 
 I am learning...everything! But in all seriousness, if I had to name a few, event driven architecture, Kubernetes, SecOps, ETLs, Lua, Deno, WASM, Rust, ML, diving deeper in to OTP, uhh...the list goes on. So many toys, so little time!
 
-#### The Other Stuff
+## The Other Stuff
 
 I'm a firm believer in open source and sharing knowledge. I will teach any chance any chance I get and learn any chance I get.
 
@@ -31,7 +31,7 @@ In all areas of my life, the following is true:
 
 Oh, HJKL <3
 
-#### The Other Other Stuff
+## The Other Other Stuff
 
 I mostly code or [play with and in userland](https://github.com/essn/dotfiles), but if I'm not...I enjoy (in no particular order):
 
@@ -43,6 +43,6 @@ I mostly code or [play with and in userland](https://github.com/essn/dotfiles), 
 - Attempting to understand the meaning of life (read: likes science fiction)
 - Exploring the vastness of NYC
 
-#### Read This Bit Please
+## Read This Bit Please
 
 I am currently having a love affair with [NestJS](https://nestjs.com/) and promoting it as much as I can.
