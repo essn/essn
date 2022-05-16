@@ -62,5 +62,7 @@
   {{- end }}
 
   <!-- Google Analytics-->
-  {{ template "_internal/google_analytics_async.html" . }}
+  {{ if not .Site.IsServer }}
+  {{ template "_internal/google_analytics.html" . }}
+  {{ end }}
 </head>
