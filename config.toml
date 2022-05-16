@@ -6,8 +6,9 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 googleAnalytics = 'G-42B5W7H635'
+
 [params]
-mode = "auto"
+mode = "toggle"
 useCDN = false
 subtitle = "I make things. Sometimes, they're interesting. *Note: This site is WIP and I am adding more content as time allows :)*"
 
