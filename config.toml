@@ -1,4 +1,4 @@
-baseURL = "https://essn.github.io"
+baseURL = "https://essn.github.io/"
 languageCode = "en-us"
 title = "essn"
 copyright = "© essn"
