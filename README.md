@@ -12,3 +12,5 @@ Using 👇 - HJKL 😍
 
 <img src="https://wakatime.com/share/@31c01f02-1916-45a2-a7a9-4e2c7798cc02/f76366cd-3464-4460-a334-07513e19298f.svg" width="600"></img>
 </div>
+
+Never stop learning: https://exercism.org/profiles/essn
