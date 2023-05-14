@@ -1,6 +1,8 @@
 <div align="center">
   
-Making things with 👇 - 😃 🛠️
+Making things with 👇 - 😃
+
+Under 🔧🔨🔧 while I am modifying my development configuration!
 
 </br>
 
