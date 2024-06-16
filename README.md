@@ -4,7 +4,7 @@ Making things with 👇 - 😃
 
 Under 🔧🔨🔧 while I am modifying my development configuration!
 
-Edit: This particular item, "weighing personal programming velocity", is under construction while the user determines an effective balance between production and privacy. Expect more soon :)
+Edit: This particular item, "weighing personal programming velocity", is under construction while the user determines an effective balance between optimizing individual productivity and privacy. Expect more soon :)
 
 </br>
 
